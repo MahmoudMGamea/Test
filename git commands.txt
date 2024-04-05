@@ -23,6 +23,5 @@ git checkout [commit head get it from (git log)]        ---->             move t
 
 git checkout [branch name]                              ---->             whene you use git log now you can see all commits otherwise you see only the commits before the one you at
 
+git reset --hard [head]      ----> delet all commits after this one
 
-
-d
