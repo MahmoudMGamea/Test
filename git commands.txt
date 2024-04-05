@@ -25,3 +25,4 @@ git checkout [branch name]                              ---->             whene 
 
 git reset --hard [head]      ----> delet all commits after this one
 
+ff
