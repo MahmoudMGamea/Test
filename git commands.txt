@@ -1,0 +1,28 @@
+git init             ---->           creat repo in fold
+   
+git statuse          ---->           show the status (unbranched - staged - commit)       
+
+creating file in the folder it is not added to the repo write git add	
+by diffulte in unbranched to goto staged
+
+git add				 ---->           add file to repo or move from unbranched to staged
+git add .			 ---->           . moves all files from unbranched to staged
+
+
+
+git config --global user.email "you@example.com"       ----->   add email
+git config --global user.name "Your Name"              ----->   add name
+ 
+ 
+git commit -m "desciption"                             ----->   move from staged to commit
+
+git log             ---->             show all commits 
+
+
+git checkout [commit head get it from (git log)]        ---->             move throw commit
+
+git checkout [branch name]                              ---->             whene you use git log now you can see all commits otherwise you see only the commits before the one you at
+
+
+
+d
