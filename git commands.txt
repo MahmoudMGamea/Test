@@ -27,4 +27,5 @@ git reset --hard [head]      ----> delet all commits after this one
 
 git reset --mixed [head]     ----> make commits goto the head and mixing and unstaging the commits
 
+
 x
